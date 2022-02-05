@@ -1,0 +1,20 @@
+Coles-Dwight-assn08:
+total 104
+-rwxr-xr-x. 1 myid 16856 Nov 19 18:33 a
+-rw-r--r--. 1 myid   310 Nov 16 23:27 assn08test.tar.gz
+-rwxr-xr-x. 1 myid 16856 Nov 19 18:24 b
+-rw-r--r--. 1 myid  1000 Nov 20 17:24 firstline.c
+-rw-r--r--. 1 myid  7584 Nov 20 17:25 firstline.o
+-rw-r--r--. 1 myid  1344 Nov 20 17:24 longestline.c
+-rw-r--r--. 1 myid  7440 Nov 20 17:25 longestline.o
+-rw-r--r--. 1 myid     0 Nov 20 17:26 rec22178
+-rw-r--r--. 1 myid    11 Sep 11  2018 testfive
+-rw-r--r--. 1 myid    13 Sep 11  2018 testfour
+-rw-r--r--. 1 myid    25 Sep 11  2018 testone
+-rw-r--r--. 1 myid    16 Sep 11  2018 testseven
+-rw-r--r--. 1 myid    10 Nov 17 23:42 testseven~
+-rw-r--r--. 1 myid     4 Sep 11  2018 testsix
+-rw-r--r--. 1 myid     4 Nov 19 18:08 testsix~
+-rw-r--r--. 1 myid    12 Sep 11  2018 testthree
+-rw-r--r--. 1 myid    24 Sep 11  2018 testtwo
+/home/myid/dsc83098/csci1730/Coles-Dwight-assn08:/home/myid/csci-1730
